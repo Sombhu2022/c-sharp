@@ -1,0 +1,8 @@
+C:\Users\SOMBHU DAS\Desktop\c#\Sum of Matrix columns\bin\Debug\Sum of Matrix columns.exe.config
+C:\Users\SOMBHU DAS\Desktop\c#\Sum of Matrix columns\bin\Debug\Sum of Matrix columns.exe
+C:\Users\SOMBHU DAS\Desktop\c#\Sum of Matrix columns\bin\Debug\Sum of Matrix columns.pdb
+C:\Users\SOMBHU DAS\Desktop\c#\Sum of Matrix columns\obj\Debug\Sum of Matrix columns.csproj.AssemblyReference.cache
+C:\Users\SOMBHU DAS\Desktop\c#\Sum of Matrix columns\obj\Debug\Sum of Matrix columns.csproj.SuggestedBindingRedirects.cache
+C:\Users\SOMBHU DAS\Desktop\c#\Sum of Matrix columns\obj\Debug\Sum of Matrix columns.csproj.CoreCompileInputs.cache
+C:\Users\SOMBHU DAS\Desktop\c#\Sum of Matrix columns\obj\Debug\Sum of Matrix columns.exe
+C:\Users\SOMBHU DAS\Desktop\c#\Sum of Matrix columns\obj\Debug\Sum of Matrix columns.pdb

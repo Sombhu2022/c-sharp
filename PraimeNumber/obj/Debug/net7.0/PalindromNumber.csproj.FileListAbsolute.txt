@@ -1,0 +1,15 @@
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\PalindromNumber\bin\Debug\net7.0\PalindromNumber.exe
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\PalindromNumber\bin\Debug\net7.0\PalindromNumber.deps.json
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\PalindromNumber\bin\Debug\net7.0\PalindromNumber.runtimeconfig.json
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\PalindromNumber\bin\Debug\net7.0\PalindromNumber.dll
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\PalindromNumber\bin\Debug\net7.0\PalindromNumber.pdb
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\PalindromNumber\obj\Debug\net7.0\PalindromNumber.csproj.AssemblyReference.cache
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\PalindromNumber\obj\Debug\net7.0\PalindromNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\PalindromNumber\obj\Debug\net7.0\PalindromNumber.AssemblyInfoInputs.cache
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\PalindromNumber\obj\Debug\net7.0\PalindromNumber.AssemblyInfo.cs
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\PalindromNumber\obj\Debug\net7.0\PalindromNumber.csproj.CoreCompileInputs.cache
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\PalindromNumber\obj\Debug\net7.0\PalindromNumber.dll
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\PalindromNumber\obj\Debug\net7.0\refint\PalindromNumber.dll
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\PalindromNumber\obj\Debug\net7.0\PalindromNumber.pdb
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\PalindromNumber\obj\Debug\net7.0\PalindromNumber.genruntimeconfig.cache
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\PalindromNumber\obj\Debug\net7.0\ref\PalindromNumber.dll
