@@ -1,0 +1,15 @@
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\FibonaciS\bin\Debug\net7.0\FibonaciS.exe
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\FibonaciS\bin\Debug\net7.0\FibonaciS.deps.json
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\FibonaciS\bin\Debug\net7.0\FibonaciS.runtimeconfig.json
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\FibonaciS\bin\Debug\net7.0\FibonaciS.dll
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\FibonaciS\bin\Debug\net7.0\FibonaciS.pdb
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\FibonaciS\obj\Debug\net7.0\FibonaciS.csproj.AssemblyReference.cache
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\FibonaciS\obj\Debug\net7.0\FibonaciS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\FibonaciS\obj\Debug\net7.0\FibonaciS.AssemblyInfoInputs.cache
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\FibonaciS\obj\Debug\net7.0\FibonaciS.AssemblyInfo.cs
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\FibonaciS\obj\Debug\net7.0\FibonaciS.csproj.CoreCompileInputs.cache
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\FibonaciS\obj\Debug\net7.0\FibonaciS.dll
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\FibonaciS\obj\Debug\net7.0\refint\FibonaciS.dll
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\FibonaciS\obj\Debug\net7.0\FibonaciS.pdb
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\FibonaciS\obj\Debug\net7.0\FibonaciS.genruntimeconfig.cache
+C:\Users\SOMBHU DAS\Desktop\.NET\c#\FibonaciS\obj\Debug\net7.0\ref\FibonaciS.dll
