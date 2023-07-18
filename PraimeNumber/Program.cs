@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("***....palindrom number from an array in intiger ....****");
+            Console.WriteLine("***....prime number from an array in intiger ....****");
             Console.WriteLine("Enter the range of array");
             int n = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("enter the array values");
